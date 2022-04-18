@@ -1,0 +1,47 @@
+.Top{
+    background-color: rgb(0, 162, 255);
+    color: whitesmoke;
+}
+.Title{
+    text-align: right;
+}
+.Pig{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.About{
+    text-align: center;
+    color: rgb(0, 162, 255);
+}
+.Projects{
+    color: black;
+    font-weight: bold;
+}
+.Home{
+    color: whitesmoke;
+}
+.Video{
+    text-align: center;
+    background-color: rgb(0, 162, 255);
+}
+.EyeIMG{
+    width: 50px;
+    height: 50px;
+}
+.ProjectsB{
+    text-align: center;
+    color: rgb(0, 162, 255);
+}
+.TrackerPNG{
+    height: 100px;
+    width: 100px;
+}
+.PacPNG{
+    height: 100px;
+    width: 100px;
+}
+.Socials{
+    background-color: rgb(0, 162, 255);
+    color: whitesmoke;
+}
